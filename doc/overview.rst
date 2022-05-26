@@ -4,7 +4,7 @@ Overview
 Introduction
 ------------
 
-**MuJoCo** stands for **Mu**\ lti-**Jo**\ int dynamics with **Co**\ ntact. It is a general purpose physics engine that
+***MuJoCo*** stands for **Mu**\ lti-**Jo**\ int dynamics with **Co**\ ntact. It is a general purpose physics engine that
 aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and
 other areas that demand fast and accurate simulation of articulated structures interacting with their environment.
 Initially developed by Roboti LLC, it was acquired and made `freely available
